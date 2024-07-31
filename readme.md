@@ -55,6 +55,8 @@
   
 ```git clone git@github.com:YandexPraktikum/first-project.git``` (от англ. clone, «клон», «копия») — склонируй репозиторий с URL first-project.git из аккаунта YandexPraktikum на мой локальный компьютер.
   
+### Работа с ветками
+  
 #### Создание веток
   
 ```git branch feature/the-finest-branch``` (от англ. branch, «ветка») — создай ветку от текущей с названием feature/the-finest-branch;
